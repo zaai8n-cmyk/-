@@ -1,0 +1,6 @@
+{
+  "name": "الأحياء - نيمار ابن الانبار",
+  "description": "تطبيق منظم وشامل لملزمة ومراجعة ليلة الامتحان لمادة الأحياء للبكالوريا العراقية، من إعداد الأستاذ نيمار ابن الانبار.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
